@@ -1,0 +1,25 @@
+skill:
+  id: "1965-intervention-reparations"
+  name: "1965 Intervention Reparations"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Reparations & Restitution Execution"
+
+description: >
+  Comprehensive methodology for 1965 intervention reparations in the context of
+  Dominican Republic restitution litigation against the United States. Leverages
+  1916-1924 Occupation, 1965 Intervention and 1916-2026 of documented intervention.
+
+execution_protocol:
+  step_1: "Identify and authenticate primary source documents from Gaceta Oficial de la República Dominicana, NARA, CIA CREST, and State Department archives."
+  step_2: "Establish chain of causation linking US intervention to specific quantifiable damages."
+  step_3: "Apply 1916-24 Military Government, 1965 Operation Power Pack to strip jurisdictional immunity for state commercial assets."
+  step_4: "Calculate compounded reparations quantum based on historical baseline compounded at 6.0%–7.5% to 2026."
+  step_5: "Structure QSF Trust (26 U.S.C. § 468B) for victim distribution and infrastructure recovery."
+
+authorities:
+  - "1916-1924 Occupation, 1965 Intervention"
+  - "United Nations Charter, Article 94(1) and (2)"
+  - "Factory at Chorzów, 1928 P.C.I.J. (ser. A) No. 17 (Restitutio in Integrum)"
+  - "UN Convention on Jurisdictional Immunities of States and Their Property (UNCSI), Articles 12 & 19"
+  - "Foreign Sovereign Immunities Act (FSIA), 28 U.S.C. §§ 1605, 1610"

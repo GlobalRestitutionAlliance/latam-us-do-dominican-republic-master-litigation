@@ -1,0 +1,29 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+
+# Temporary
+*.tmp
+*.temp
+~$
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Local config (never commit)
+.env
+.local/

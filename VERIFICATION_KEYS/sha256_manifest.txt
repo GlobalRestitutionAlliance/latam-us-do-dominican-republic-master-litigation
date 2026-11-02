@@ -1,0 +1,9 @@
+# SHA-256 Manifest: Dominican Republic Master Litigation Repository
+# Generated: 2026-11-01 03:56:35
+# Repository: GlobalRestitutionAlliance/us-dominicanrepublic-master-litigation
+# Release: v1.0.0
+
+# Format: <sha256_hash>  <relative_path>
+# Run: python -c "import hashlib; [print(hashlib.sha256(open(f,'rb').read()).hexdigest(), ' ', f) for f in __import__('glob').glob('**/*', recursive=True) if not __import__('os').path.isdir(f)]" > VERIFICATION_KEYS/sha256_manifest.txt
+
+# PLACEHOLDER - Regenerate after all files created using regenerate_manifest.py
