@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+DO-BAN-01,Banking and Sanctions Compliance,Trujillo dictatorship legacy (1930-1961),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+DO-BAN-02,Banking and Sanctions Compliance,1965 US intervention and civil conflict (public historical record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+DO-BAN-03,Banking and Sanctions Compliance,Sugar industry labor and migration/human rights concerns,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+DO-BAN-04,Banking and Sanctions Compliance,Trujillo dictatorship legacy (1930-1961),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+DO-BAN-05,Banking and Sanctions Compliance,1965 US intervention and civil conflict (public historical record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED

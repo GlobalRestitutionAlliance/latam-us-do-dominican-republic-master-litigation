@@ -1,0 +1,104 @@
+vector_index:
+  jurisdiction: Dominican Republic
+  iso: DO
+  vectors:
+    - vector_id: "DO-001"
+      anchor: "Trujillo dictatorship legacy (1930-1961)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-002"
+      anchor: "1965 US intervention and civil conflict (public historical record)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-003"
+      anchor: "Sugar industry labor and migration/human rights concerns"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-004"
+      anchor: "Trujillo dictatorship legacy (1930-1961)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-005"
+      anchor: "1965 US intervention and civil conflict (public historical record)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-006"
+      anchor: "Sugar industry labor and migration/human rights concerns"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-007"
+      anchor: "Trujillo dictatorship legacy (1930-1961)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-008"
+      anchor: "1965 US intervention and civil conflict (public historical record)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-009"
+      anchor: "Sugar industry labor and migration/human rights concerns"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-010"
+      anchor: "Trujillo dictatorship legacy (1930-1961)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-011"
+      anchor: "1965 US intervention and civil conflict (public historical record)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-012"
+      anchor: "Sugar industry labor and migration/human rights concerns"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-013"
+      anchor: "Trujillo dictatorship legacy (1930-1961)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-014"
+      anchor: "1965 US intervention and civil conflict (public historical record)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-015"
+      anchor: "Sugar industry labor and migration/human rights concerns"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-016"
+      anchor: "Trujillo dictatorship legacy (1930-1961)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-017"
+      anchor: "1965 US intervention and civil conflict (public historical record)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-018"
+      anchor: "Sugar industry labor and migration/human rights concerns"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-019"
+      anchor: "Trujillo dictatorship legacy (1930-1961)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-020"
+      anchor: "1965 US intervention and civil conflict (public historical record)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-021"
+      anchor: "Sugar industry labor and migration/human rights concerns"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-022"
+      anchor: "Trujillo dictatorship legacy (1930-1961)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-023"
+      anchor: "1965 US intervention and civil conflict (public historical record)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-024"
+      anchor: "Sugar industry labor and migration/human rights concerns"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
+    - vector_id: "DO-025"
+      anchor: "Trujillo dictatorship legacy (1930-1961)"
+      status: SCAFFOLDED
+      evidence_status: PENDING_PRIMARY_SOURCE
